@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
-
+//Стирает текущее выражение
     public void clearClick(View v){
         txt.setText("");
         statement = "";
